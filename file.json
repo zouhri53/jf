@@ -1,0 +1,40 @@
+{
+	"Goods":[
+		{	
+			"Description":"Line Trimmer",
+			"Make":"Homelite",
+			"Model":"HBL26YBNC",
+			"Serial":"1801000451"
+		},
+		{
+			"Description":"4 Stroke Lawnmower",
+			"Make":"Victa",
+			"Model":"VCS467",
+			"Serial":"2018063136"
+		},
+		{	
+			"Description":"Nontendo Switch",
+			"Make":"Nintendo",
+			"Model":"",
+			"Serial":"XAW70017229671"
+		},
+		{
+			"Description":"Nova 3 128gb Mobile",
+			"Make":"Huawei",
+			"Model":"INELX2",
+			"Serial":"JUC7N18728030779"
+		},
+		{
+			"Description":"Portable ac",
+			"Make":"Dimplex",
+			"Model":"DC15RCBW",
+			"Serial":"74700115"
+		},
+		{
+			"Description":"Handycam",
+			"Make":"Sony",
+			"Model":"FDRAX33",
+			"Serial":"3741519G"
+		}
+	]
+}
